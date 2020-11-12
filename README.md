@@ -14,4 +14,7 @@ Aplicação desenvolvida na NLW da Rocketseat, onde podemos cadastrar casas de a
 
  entre outras... 
  
+ ### :technologist: Conheça-me mais
+ 
+ LinkedIn: https://www.linkedin.com/in/gustavo-rosa-8a7a481b5/
  
