@@ -10,7 +10,7 @@ Aplicação desenvolvida na NLW da Rocketseat, onde podemos cadastrar casas de a
 1. Html
 1. Css
 1. javascript 
-1. SQL 
+
 
  entre outras... 
  
